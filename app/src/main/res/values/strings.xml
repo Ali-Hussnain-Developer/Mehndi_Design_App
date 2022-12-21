@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MehndiDesignApp</string>
+    <string name="txt_back_hand">Back Hand</string>
+    <string name="txt_front_hand">Front Hand</string>
+    <string name="txt_Gol_Tikki">Gol Tikki</string>
+    <string name="txt_finger">Finger</string>
+    <string name="txt_arm">Arm</string>
+    <string name="txt_foot">Foot</string>
+    <string name="txt_eid_special">Eid Special</string>
+    <string name="txt_wedding">Wedding</string>
+    <string name="txt_app_title">Mehndi App</string>
+    <string name="txt_add_favourite">Added To Favourite</string>
+    <string name="txt_error_bitmap">Error writing bitmap</string>
+    <string name="txt_favourite_design">Your Favourite Design</string>
+    <string name="txt_develop_by_ali">Develop By Ali Hussnain</string>
+</resources>
